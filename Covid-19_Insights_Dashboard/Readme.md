@@ -44,7 +44,7 @@ This dashboard visualizes global COVID-19 data to analyze infection trends, reco
 ---
 
 ## 📷 Dashboard Preview
-![](Covid-19 Screenshot.png)
+![Dashboard](Covid-19_Screenshot.png)
 
 ---
 
