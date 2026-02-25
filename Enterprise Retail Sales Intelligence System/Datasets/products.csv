@@ -1,0 +1,100 @@
+product_id,category,sub_category,product_name,cost_price
+1,Furniture,Chairs,Chairs_Product_1,243.12
+2,Furniture,Chairs,Chairs_Product_2,425.14
+3,Furniture,Chairs,Chairs_Product_3,243.9
+4,Furniture,Chairs,Chairs_Product_4,100.87
+5,Furniture,Chairs,Chairs_Product_5,460.79
+6,Furniture,Chairs,Chairs_Product_6,40.4
+7,Furniture,Chairs,Chairs_Product_7,159.51
+8,Furniture,Chairs,Chairs_Product_8,483.18
+9,Furniture,Chairs,Chairs_Product_9,20.56
+10,Furniture,Chairs,Chairs_Product_10,229.95
+11,Furniture,Chairs,Chairs_Product_11,422.38
+12,Furniture,Tables,Tables_Product_1,102.06
+13,Furniture,Tables,Tables_Product_2,353.01
+14,Furniture,Tables,Tables_Product_3,222.04
+15,Furniture,Tables,Tables_Product_4,154.24
+16,Furniture,Tables,Tables_Product_5,428.11
+17,Furniture,Tables,Tables_Product_6,486.93
+18,Furniture,Tables,Tables_Product_7,345.79
+19,Furniture,Tables,Tables_Product_8,15.45
+20,Furniture,Tables,Tables_Product_9,452.18
+21,Furniture,Tables,Tables_Product_10,19.64
+22,Furniture,Tables,Tables_Product_11,487.89
+23,Furniture,Storage,Storage_Product_1,171.54
+24,Furniture,Storage,Storage_Product_2,421.2
+25,Furniture,Storage,Storage_Product_3,28.04
+26,Furniture,Storage,Storage_Product_4,335.38
+27,Furniture,Storage,Storage_Product_5,429.44
+28,Furniture,Storage,Storage_Product_6,278.68
+29,Furniture,Storage,Storage_Product_7,219.94
+30,Furniture,Storage,Storage_Product_8,320.1
+31,Furniture,Storage,Storage_Product_9,98.5
+32,Furniture,Storage,Storage_Product_10,243.33
+33,Furniture,Storage,Storage_Product_11,463.85
+34,Technology,Phones,Phones_Product_1,284.94
+35,Technology,Phones,Phones_Product_2,399.22
+36,Technology,Phones,Phones_Product_3,171.33
+37,Technology,Phones,Phones_Product_4,57.41
+38,Technology,Phones,Phones_Product_5,275.11
+39,Technology,Phones,Phones_Product_6,39.59
+40,Technology,Phones,Phones_Product_7,466.72
+41,Technology,Phones,Phones_Product_8,463.25
+42,Technology,Phones,Phones_Product_9,413.88
+43,Technology,Phones,Phones_Product_10,75.33
+44,Technology,Phones,Phones_Product_11,448.85
+45,Technology,Accessories,Accessories_Product_1,80.84
+46,Technology,Accessories,Accessories_Product_2,429.36
+47,Technology,Accessories,Accessories_Product_3,221.07
+48,Technology,Accessories,Accessories_Product_4,434.88
+49,Technology,Accessories,Accessories_Product_5,277.91
+50,Technology,Accessories,Accessories_Product_6,26.77
+51,Technology,Accessories,Accessories_Product_7,343.15
+52,Technology,Accessories,Accessories_Product_8,381.0
+53,Technology,Accessories,Accessories_Product_9,310.42
+54,Technology,Accessories,Accessories_Product_10,364.96
+55,Technology,Accessories,Accessories_Product_11,291.81
+56,Technology,Computers,Computers_Product_1,218.33
+57,Technology,Computers,Computers_Product_2,498.52
+58,Technology,Computers,Computers_Product_3,220.0
+59,Technology,Computers,Computers_Product_4,442.24
+60,Technology,Computers,Computers_Product_5,380.59
+61,Technology,Computers,Computers_Product_6,260.45
+62,Technology,Computers,Computers_Product_7,388.74
+63,Technology,Computers,Computers_Product_8,281.7
+64,Technology,Computers,Computers_Product_9,124.59
+65,Technology,Computers,Computers_Product_10,333.46
+66,Technology,Computers,Computers_Product_11,374.44
+67,Office Supplies,Paper,Paper_Product_1,407.32
+68,Office Supplies,Paper,Paper_Product_2,19.27
+69,Office Supplies,Paper,Paper_Product_3,360.27
+70,Office Supplies,Paper,Paper_Product_4,77.71
+71,Office Supplies,Paper,Paper_Product_5,480.53
+72,Office Supplies,Paper,Paper_Product_6,477.34
+73,Office Supplies,Paper,Paper_Product_7,419.46
+74,Office Supplies,Paper,Paper_Product_8,65.51
+75,Office Supplies,Paper,Paper_Product_9,444.67
+76,Office Supplies,Paper,Paper_Product_10,447.55
+77,Office Supplies,Paper,Paper_Product_11,364.98
+78,Office Supplies,Binders,Binders_Product_1,231.11
+79,Office Supplies,Binders,Binders_Product_2,448.84
+80,Office Supplies,Binders,Binders_Product_3,70.04
+81,Office Supplies,Binders,Binders_Product_4,451.93
+82,Office Supplies,Binders,Binders_Product_5,182.48
+83,Office Supplies,Binders,Binders_Product_6,431.33
+84,Office Supplies,Binders,Binders_Product_7,169.35
+85,Office Supplies,Binders,Binders_Product_8,13.83
+86,Office Supplies,Binders,Binders_Product_9,287.2
+87,Office Supplies,Binders,Binders_Product_10,424.64
+88,Office Supplies,Binders,Binders_Product_11,470.27
+89,Office Supplies,Appliances,Appliances_Product_1,249.67
+90,Office Supplies,Appliances,Appliances_Product_2,247.26
+91,Office Supplies,Appliances,Appliances_Product_3,121.4
+92,Office Supplies,Appliances,Appliances_Product_4,25.59
+93,Office Supplies,Appliances,Appliances_Product_5,146.43
+94,Office Supplies,Appliances,Appliances_Product_6,325.84
+95,Office Supplies,Appliances,Appliances_Product_7,425.4
+96,Office Supplies,Appliances,Appliances_Product_8,17.88
+97,Office Supplies,Appliances,Appliances_Product_9,375.46
+98,Office Supplies,Appliances,Appliances_Product_10,158.73
+99,Office Supplies,Appliances,Appliances_Product_11,173.52
